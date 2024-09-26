@@ -1,0 +1,1 @@
+alert("The phone has been hacked successfully \n تم أختراق الهاتف بنجاح")
